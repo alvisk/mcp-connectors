@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./docs/assets/logo.png" alt="Disco Logo" width="400" />
-  
+
   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   [![npm version](https://badge.fury.io/js/@stackone%2Fmcp-connectors.svg)](https://badge.fury.io/js/@stackone%2Fmcp-connectors)
   [![npm version](https://badge.fury.io/js/@stackone%2Fmcp-config-types.svg)](https://badge.fury.io/js/@stackone%2Fmcp-config-types)
@@ -53,7 +53,7 @@ If you want to run the connectors locally or contribute to the project:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/stackone-ai/mcp-connectors.git
+   git clone https://github.com/StackOneHQ/mcp-connectors.git
    cd mcp-connectors
    ```
 
